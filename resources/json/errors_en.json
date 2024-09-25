@@ -1,10 +1,10 @@
 {
-  "423": "Locked: for good!",
-  "424":	"Failed # Dependencies",
-  "425": "Too Early",
+  "E423": "Locked: for good!",
+  "E424":	"Failed # Dependencies",
+  "E425": "Too Early",
   "test1":"This is a test!",
     "test2":"This is the #number of tests",
     "test3":"This is a colon: which properties need to escape",
-    "test4":"Not sure why? \t \f \n \r",
+    "test4":"Not sure why?",
    "test5":" {count, plural, one {#, other} other {#, others}}"
 }
