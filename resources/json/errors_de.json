@@ -1,10 +1,10 @@
 {
-  "E423": "Locked: for good!",
-  "E424": "Failed # Dependencies",
-  "E425": "Too Early",
-  "test1": "This is a test!",
-  "test2": "This is the #number of tests",
-  "test3": "This is a colon: which properties need to escape",
-  "test4": "Not sure why?",
-  "test5": " {count, plural, one {#, other} other {#, others}}"
+  "E423": "Locked: zum Tisch!",
+  "E424": "Failed # Spater",
+  "E425": "Too \n Tidlig",
+  "test1": "Das ist \t ein Hund!",
+  "test2": "Hier ist # nummer",
+  "test3": "Tier: Pferd",
+  "test4": "Aber warum?",
+  "test5": " {count, plural, one {#, anderes} other {#, templi}}"
 }
