@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="file">
+    <body>
+      <!-- Less than 5 characters in length -->
+      <trans-unit id="label.welcome">
+        <source>Hello</source>
+      </trans-unit>
+      <trans-unit id="label.goodbye">
+        <source>See ya</source>
+      </trans-unit>
+      <!-- Less than 7 characters in length -->
+      <trans-unit id="label.error">
+        <source>Bad mojo</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
