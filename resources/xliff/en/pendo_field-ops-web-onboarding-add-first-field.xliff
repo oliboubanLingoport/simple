@@ -227,6 +227,1995 @@ You have successfully completed this guide.]]></target>
 </group>
 <group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
 <note/>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+
+
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
+<trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="7c15433f-9699-403d-8275-9c41e465dd06|md">
+<source><![CDATA[Tour Set for Tomorrow]]></source>
+<target><![CDATA[Tour Set for Tomorrow]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="487dbd66-152c-4c99-bcde-ddc042973c85|md">
+<source><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[In the meantime, additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="908fb890-8b20-4047-8710-9587e4f74fa6">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="92639b9f-69bc-4781-bd84-7e6426db7335|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="006a2992-8b66-4c12-b9dd-6e4bae20f74e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="3c6f6085-165d-41fd-a170-5dc91b8896ff" translate="no">
+<source><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></source>
+<target><![CDATA[https://pendo-static-5949596349562880.storage.googleapis.com/8WZ2EdG3EiIRa4HTan7zMai3JrA/guide-media-fc66e13a-ee3d-4ca4-84d3-3b5211023d11]]></target>
+<note>insert.io.ImageView</note>
+</trans-unit>
+<trans-unit id="41b15af5-84ad-4af2-854c-6ec1f475be91|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="be920e79-3db1-48c3-af79-18bcf08c218e|md">
+<source><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></source>
+<target><![CDATA[This is your first time clicking this tab. Would you like to be led through a guide that will help you add a field?]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="876cba21-629f-49b9-b778-b21f04a6fe87">
+<source><![CDATA[Explore on my own]]></source>
+<target><![CDATA[Explore on my own]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8a46e105-261c-49f7-8188-dfdbf6c1b8c3">
+<source><![CDATA[Show me tomorrow]]></source>
+<target><![CDATA[Show me tomorrow]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="8f88640a-07fb-47c9-be7b-416567e8cd7d">
+<source><![CDATA[Start the guide]]></source>
+<target><![CDATA[Start the guide]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="c060adfd-ad67-4836-ac59-83b9bf1fea33|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="Aqr8NaoTcg6y2_WrdjddMG-Uk7Y">
+<note/>
+<trans-unit id="fc493c8a-34f5-445a-b303-2fc32607462d" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="b3c4c504-9b70-4315-b1cc-a8a8840131d9|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="ad5fe5b3-175f-41d1-9c1c-e5d4900debb0|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="396d7f30-314a-4271-81cc-9a3558f5a9aa|md">
+<source><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></source>
+<target><![CDATA[Your fields list is where you can view and edit detailed information on the relevant activities, data layers, field properties, and more.
+
+**Click the plus button** to add a new field. (Fields can also be added under Setup & Manage.)]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="h3GTNqzmDmYhWiyJNaFxYX8YfqI">
+<note/>
+<trans-unit id="9860a17c-864d-4f10-b207-c77bb05e95f2" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="def4845b-4eab-47d5-bd6a-87997f559f4f|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="66a5168c-19f4-499d-951b-ae3744bbf3dc|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="b261ce41-c079-45f5-9f6f-459543a001f1|md">
+<source><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></source>
+<target><![CDATA[Here you can enter all the details about your field.
+
+**Fill out the “Details” and “Type” sections**. Make sure you select or enter a Grower, Farm, and Field Name.
+
+**Next, scroll down to the “Location” section.** Here’s where you’ll find tools to let you draw the boundaries for your field. 
+
+**Click the “Draw field” button.**]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="vTev71LCZiUhbVIDGppO-9RE4t4">
+<note/>
+<trans-unit id="15bfe662-7b07-4618-aca3-000b68a27f76" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="30409aa8-21d4-494d-912d-97789e690d03|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="8bc56733-464c-4ddf-a8bf-ea34eee4b527|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="428bea12-5875-4647-bdd3-6f58367f7fda|md">
+<source><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></source>
+<target><![CDATA[**Zoom and pan the map** to find your field. Make sure it fills the majority of the screen.
+
+**Draw the boundary for your field** using the tools provided. 
+
+**Then click “Done”** to return to the previous screen.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="YpybGSdNgeBZ7uJf0nAxZdBWRgY">
+<note/>
+<trans-unit id="9152542f-0f8f-4858-9834-0f6a943e3446" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="d1bc2557-50d0-4533-928f-bb2d9235a256|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+<trans-unit id="2dc6f207-4abe-4806-aa98-a43dfdbac759|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="0054e306-83a3-496b-8c96-2bf992cb5201|md">
+<source><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></source>
+<target><![CDATA[To finish adding your field, first verify your field information is correct, and then** click Save**.]]></target>
+<note>TextView</note>
+</trans-unit>
+</group>
+<group id="d-xRQN4rpAAzyIgVEJTlRfFuuJ0">
+<note/>
+<trans-unit id="35f7ae0f-1543-4aa6-abfd-d26198b8449e" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="5f2d7a2c-579a-4daa-9511-97adc136995a|md">
+<source><![CDATA[Add a Field]]></source>
+<target><![CDATA[Add a Field]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="5e812fb4-aaf3-426d-b206-b2026fe44c47|md">
+<source><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></source>
+<target><![CDATA[You can now see your new field in the fields panel.
+
+Tapping on the field - in the list or in the map - will center the map and display the field’s details.
+
+You have successfully completed this guide.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="7155d28b-f6d2-4995-a725-0da1669395a4">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="ac1a9a4c-bad2-498f-9d4d-2a9d5a571682|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="dEJyOGm5ugYj4zEZku67fmSCIWw">
+<note/>
+<trans-unit id="22659d26-ce8c-4ee3-afd8-bf02fa70feca" translate="no">
+<source><![CDATA[✖]]></source>
+<target><![CDATA[✖]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="f23cfe18-0ad5-4963-8ca0-e37090b4137c|md">
+<source><![CDATA[You've Skipped the Tour]]></source>
+<target><![CDATA[You've Skipped the Tour]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="e68ad033-9d3f-4cbb-ac70-3205f82c1d15|md">
+<source><![CDATA[Additional resources can be found in the Help Guides.]]></source>
+<target><![CDATA[Additional resources can be found in the Help Guides.]]></target>
+<note>TextView</note>
+</trans-unit>
+<trans-unit id="43e03f74-fde6-4465-9990-edec40178ee1">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>Button</note>
+</trans-unit>
+<trans-unit id="9089c8b2-df6f-45bb-ab18-ab9a722efd28|ariaLabel">
+<source><![CDATA[Close]]></source>
+<target><![CDATA[Close]]></target>
+<note>CloseButton</note>
+</trans-unit>
+</group>
+<group id="JI-8cNkgguWsBq7twSp6jV0G_mQ">
+<note/>
 <trans-unit id="83a4a808-1d80-41c7-af81-635f52508e54" translate="no">
 <source><![CDATA[✖]]></source>
 <target><![CDATA[✖]]></target>
