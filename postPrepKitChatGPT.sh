@@ -78,6 +78,7 @@ done
 #
 TO_TRANSLATION_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/to_chatgpt_local
 FROM_TRANSLATION_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/from_chatgpt_local
+TMP_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/tmp_translation
 
 # unzip and place the files in the top to_translation directory to be ready to call 'translate' above
 unzip *.zip
@@ -90,4 +91,48 @@ for INPUT_FILE in *; do
           echo "Translation ${INPUT_FILE} -> ${OUTPUT_FILE}"
   fi
 done
+
+
+set -euo pipefail
+
+# Ensure output directory exists
+mkdir -p "$TO_TRANSLATION_DIR"
+mkdir -p "$FROM_TRANSLATION_DIR"
+mkdir -p "$TMP_DIR"
+
+# Loop over all zip files in TO_DIR
+for zipfile in "$TO_TRANSLATION_DIR"/*.zip; do
+    [ -e "$zipfile" ] || continue  # skip if no zip files
+
+    # Get the base filename without extension
+    filename=$(basename "$zipfile" .zip)
+
+    echo "Processing $filename.zip ..."
+
+    # Create fresh temp directory for this zip
+    workdir="$TMP_DIR/$filename"
+    rm -rf "$workdir"
+    mkdir -p "$workdir"
+
+    # Unzip into workdir
+    unzip -q "$zipfile" -d "$workdir"
+
+    # Find and translate each .pxml file
+    find "$workdir" -type f -name "*.pxml" | while read -r pxml; do
+        echo "  Translating: $pxml"
+       translate "$pxml"  
+    done
+
+    # Re-zip preserving structure
+    outzip="$FROM_TRANSLATION_DIR/$filename.zip"
+    (cd "$workdir" && zip -qr "$outzip" .)
+
+    echo "Created: $outzip"
+done
+
+# Cleanup temp files (optional)
+rm -rf "$TMP_DIR"
+
+echo "All done."
+
 
