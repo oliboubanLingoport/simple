@@ -9,6 +9,9 @@ translate() {
  OUTPUT_FILE="$2"
  API_KEY="$API_KEY"
 
+ echo "${API_KEY:0:4} ... ${API_KEY: -4}"
+
+
  # Start new XML file
  echo '<?xml version="1.0" encoding="utf-8"?>' > "$OUTPUT_FILE"
  echo '<resources>' >> "$OUTPUT_FILE"
