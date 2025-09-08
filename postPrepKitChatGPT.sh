@@ -8,6 +8,9 @@ translate() {
  INPUT_FILE="$1"
  OUTPUT_FILE="$2"
  API_KEY="$API_KEY"
+ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+ echo "SCRIPT_DIR = $SCRIPT_DIR"
+ ls -l "${SCRIPT_DIR}/translation_request.json"
 
  echo "API_KIT: ${API_KEY:0:4} ... ${API_KEY: -4}"
 
@@ -34,24 +37,7 @@ translate() {
     RESPONSE=$(curl -s https://api.openai.com/v1/chat/completions \
       -H "Content-Type: application/json" \
       -H "Authorization: Bearer $API_KEY" \
-      -d "{
-        \"model\": \"gpt-4o\",
-        \"messages\": [
-          {
-            \"role\": \"user\",
-            \"content\": [
-              {
-                \"type\": \"text\",
-                \"text\": \"As a professional translator, using this image, only return the French translation for the string: '$VALUE'\"
-              },
-              {
-                \"type\": \"image_url\",
-                \"image_url\": { \"url\": \"$URL\" }
-              }
-            ]
-          }
-        ]
-      }")
+      -d @"${SCRIPT_DIR}/translation_request.json")
 
     # Extract translation (first choice message)
     TRANSLATION=$(echo "$RESPONSE" | jq -r '.choices[0].message.content' | sed 's/^ *//;s/ *$//')
