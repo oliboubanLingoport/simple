@@ -104,6 +104,7 @@ for zipfile in "$TO_TRANSLATION_DIR"/*.zip; do
     echo " zipfile=$zipfile"
     echo " workdir=$workdir"
     unzip -q "$zipfile" -d "$workdir"
+    rm "$zipfile"
 
     # Find and translate each .pxml file
     find "$workdir" -type f -name "*.pxml" | while read -r pxml; do
