@@ -1,0 +1,20 @@
+{
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "As a professional translator, using this image, only return the French translation for the string: 'Register' "
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": "https://poc.lingoport.io/incontext-server/lookup?token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD&key=10894_70"
+            }
+          }
+        ]
+      }
+    ]
+ }
