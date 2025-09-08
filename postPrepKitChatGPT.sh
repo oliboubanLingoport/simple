@@ -79,20 +79,6 @@ done
 TO_TRANSLATION_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/to_chatgpt_local
 FROM_TRANSLATION_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/from_chatgpt_local
 TMP_DIR=/usr/local/tomcat/Lingoport_Data/CommandCenter/misc/tmp_translation
-
-# unzip and place the files in the top to_translation directory to be ready to call 'translate' above
-unzip *.zip
-find . -name "*.pxml" -exec mv {} "$TO_TRANSLATION_DIR" \;
-
-cd "$TO_TRANSLATION_DIR"
-for INPUT_FILE in *; do
-  if [ -f "$INPUT_FILE" ]; then
-          OUTPUT_FILE=" ${FROM_TRANSLATION_DIR}/${INPUT_FILE}"
-          echo "Translation ${INPUT_FILE} -> ${OUTPUT_FILE}"
-  fi
-done
-
-
 set -euo pipefail
 
 # Ensure output directory exists
@@ -115,6 +101,8 @@ for zipfile in "$TO_TRANSLATION_DIR"/*.zip; do
     mkdir -p "$workdir"
 
     # Unzip into workdir
+    echo " zipfile=$zipfile"
+    echo " workdir=$workdir"
     unzip -q "$zipfile" -d "$workdir"
 
     # Find and translate each .pxml file
