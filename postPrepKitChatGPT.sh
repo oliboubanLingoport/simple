@@ -34,8 +34,8 @@ translate() {
     URL=$(echo "$URL" | sed 's/&amp;/\&/g')
     TMP_REQUEST=$(mktemp).json
     cp "${SCRIPT_DIR}/translation_request.json" "${TMP_REQUEST}"
-    sed -i "s/VALUE_TOKEN/$VALUE" "${TMP_REQUEST}"
-    sed -i "s/URL/$URL" "${TMP_REQUEST}"
+    sed -i "s/VALUE_TOKEN/$VALUE/" "${TMP_REQUEST}"
+    sed -i "s/URL/$URL/" "${TMP_REQUEST}"
     echo " --->"
     echo " > TMP_REQUEST: "
     cat "${TMP_REQUEST}"
