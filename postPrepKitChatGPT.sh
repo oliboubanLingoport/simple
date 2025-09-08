@@ -107,8 +107,10 @@ for zipfile in "$TO_TRANSLATION_DIR"/*.zip; do
 
     # Find and translate each .pxml file
     find "$workdir" -type f -name "*.pxml" | while read -r pxml; do
-        echo "  Translating: $pxml"
-       translate "$pxml"  
+       temp_file=$(mktemp)
+       echo "  Translating: $pxml $temp_file"
+       translate "$pxml"  "$temp_file"
+       mv  "$temp_file" "$pxml"
     done
 
     # Re-zip preserving structure
