@@ -32,12 +32,21 @@ translate() {
  while IFS="|" read -r TRANSLATE SEGMENT MIN MAX URL PROMPT SID VALUE; do
     # Clean URL
     URL=$(echo "$URL" | sed 's/&amp;/\&/g')
+    TMP_REQUEST=$(mktemp).json
+    cp "${SCRIPT_DIR}/translation_request.json" "${TMP_REQUEST}"
+    sed -i "s/VALUE_TOKEN/$VALUE" "${TMP_REQUEST}"
+    sed -i "s/URL/$URL" "${TMP_REQUEST}"
+    echo " --->"
+    echo " > TMP_REQUEST: "
+    cat "${TMP_REQUEST}"
 
     # Call OpenAI API
     RESPONSE=$(curl -s https://api.openai.com/v1/chat/completions \
       -H "Content-Type: application/json" \
       -H "Authorization: Bearer $API_KEY" \
-      -d @"${SCRIPT_DIR}/translation_request.json")
+      -d @"${TMP_REQUEST}")
+
+    rm "${TMP_REQUEST}"
 
     # Extract translation (first choice message)
     TRANSLATION=$(echo "$RESPONSE" | jq -r '.choices[0].message.content' | sed 's/^ *//;s/ *$//')
