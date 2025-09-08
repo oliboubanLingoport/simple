@@ -56,7 +56,8 @@ translate() {
     # Extract translation (first choice message)
     TRANSLATION=$(echo "$RESPONSE" | jq -r '.choices[0].message.content' | sed 's/^ *//;s/ *$//')
 
-    echo "Translated segmentID=$SEGMENT → $TRANSLATION"
+    echo "Response: $RESPONSE"
+    echo "Translated segmentID=$SEGMENT / $VALUE→ $TRANSLATION"
 
     # Write new <string> block into OUTPUT_FILE
     cat >> "$OUTPUT_FILE" <<EOF
