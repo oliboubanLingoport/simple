@@ -40,7 +40,7 @@ translate() {
     echo "VALUE = ${VALUE}"
     
     sed -i "s/VALUE_TOKEN/${VALUE}/" "${TMP_REQUEST}"
-    sed -i "s/URL/${URL}/" "${TMP_REQUEST}"
+    sed -i "s|URL|${URL}|" "${TMP_REQUEST}"
     echo " --->"
     echo " > TMP_REQUEST: "
     cat "${TMP_REQUEST}"
