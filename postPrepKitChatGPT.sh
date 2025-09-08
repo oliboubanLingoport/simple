@@ -109,6 +109,8 @@ for zipfile in "$TO_TRANSLATION_DIR"/*.zip; do
     find "$workdir" -type f -name "*.pxml" | while read -r pxml; do
        temp_file=$(mktemp)
        echo "  Translating: $pxml $temp_file"
+       echo "  $pxml: "
+       cat "$pxml"
        translate "$pxml"  "$temp_file"
        mv  "$temp_file" "$pxml"
     done
