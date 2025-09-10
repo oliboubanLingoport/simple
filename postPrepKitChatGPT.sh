@@ -73,6 +73,10 @@ done
 # Close root element
  echo '</resources>' >> "$OUTPUT_FILE"
 
+ echo " TRANSLATED FILE ===================>>>>>>>>>>>>"
+ cat "$OUTPUT_FILE"
+ echo " <<<<<<<<<<<<<<<<=================== END TRANSLATED FILE"
+
 }
 
 #
