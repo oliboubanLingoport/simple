@@ -31,16 +31,16 @@ translate() {
   -v "normalize-space(value)" -n "$INPUT_FILE" | \
  while IFS="|" read -r TRANSLATE SEGMENT MIN MAX URL PROMPT SID VALUE; do
     # Clean URL
-    URL=$(echo "$URL" | sed 's/&amp;/\\\&/g')
+    LLM_URL=$(echo "$URL" | sed 's/&amp;/\\\&/g')
     TMP_REQUEST=$(mktemp).json
     cp "${SCRIPT_DIR}/translation_request.json" "${TMP_REQUEST}"
 
     ls -l "${TMP_REQUEST}"
-    echo "URL = ${URL}"
+    echo "LLM_URL = ${LLM_URL}"
     echo "VALUE = ${VALUE}"
     
     sed -i "s/VALUE_TOKEN/${VALUE}/" "${TMP_REQUEST}"
-    sed -i "s|URL_TOKEN|${URL}|" "${TMP_REQUEST}"
+    sed -i "s|URL_TOKEN|${LLM_URL}|" "${TMP_REQUEST}"
     echo " --->"
     echo " > TMP_REQUEST: "
     cat "${TMP_REQUEST}"
