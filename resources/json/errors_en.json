@@ -1,5 +1,6 @@
 {
   "423": "Register",
+  "apac.surname-countries-section.number-in-tree.caption": "{number, plural, one {{number} person in Family Tree} other {{number} people in Family Tree}}",
   "424":	"Next",
   "425": "Return"
 }
