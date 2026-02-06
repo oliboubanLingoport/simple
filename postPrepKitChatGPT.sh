@@ -79,6 +79,9 @@ done
 
 }
 
+echo " ENV >>>>>>>>>>>>>>>>>>"
+env
+echo " ENV <<<<<<<<<<<<<<<<<<"
 #
 # Go to the local directory where the zip file was created by the Prep Kit using LocalChatGPT connection
 # unzip the files, 
