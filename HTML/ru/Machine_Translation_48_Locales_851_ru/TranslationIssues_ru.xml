@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LRMIssues companyName="Zendesk" inContextQALicenseEndDate="2160-12-31" lastPrepDate="2026-09-04 10:02:44" lastSendDate="2026-09-04 10:02:44" lastVersionNum="1311" licenseEndDate="2160-12-31" licenseNumOfProjects="10000" locale="ru" lrm-version="14.1.12" projectID="5" projectName="Machine_Translation_48_Locales" timezone="GMT" topLevelDirectory="/usr/local/tomcat/Lingoport_Data/CommandCenter/workspaces/Zendesk_Machine_Translation_48_Locales.main.custom">
+  <results>
+    <result attribute="Encoding error occurs at position: 43" file="LID3889756054_41665488910747--Infinity_Projects_-_Creation_and_Conversion_of_Opportunities_-_SOP.html" level="ERROR" lineNum="1" locale="ru" reason="TRAN_ENCODING" versionnum="851"/>
+  </results>
+</LRMIssues>
